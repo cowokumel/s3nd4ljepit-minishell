@@ -2,7 +2,7 @@
 <pre>
 <b>A backdoor shell that cannot be searched using dork, is perfect for those of you who want to have long-lasting backdoor access to the target website.
 
-In this backdoor shell, several useful features are also available to carry out activities that are usually required, namely:</b>
+In this shell backdoor, several useful features are also available to carry out activities that are usually required, namely:</b>
 
 - Upload
 - Edit
